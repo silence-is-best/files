@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Source='Windows Firewall Control', Type='User Settings', Date='10/14/2024 1:11:30 PM'-->
+<Options>
+  <Option Name="NotificationMode" Value="2" Type="DWord" Scope="User" />
+  <Option Name="NotificationSoundEnabled" Value="1" Type="DWord" Scope="User" />
+  <Option Name="PlacementNotification" Value="466'1084'350'380'120'Normal" Type="String" Scope="User" />
+  <Option Name="PlacementMainPanel" Value="17'175'848'721'120'Normal" Type="String" Scope="User" />
+  <Option Name="LogAutoLoad" Value="1" Type="DWord" Scope="User" />
+  <Option Name="UserConfirmDeletion" Value="1" Type="DWord" Scope="User" />
+  <Option Name="RulesColumnsVisibility" Value="111000110111110000" Type="String" Scope="User" />
+  <Option Name="RulesColumnsOrder" Value="0'1'2'3'4'5'6'7'8'9'10'11'12'13'14'15'16'17" Type="String" Scope="User" />
+  <Option Name="RulesColumnsSize" Value="300'100'300'120'100'70'54'65'140'73'79'85'47'110'120'120'120'120" Type="String" Scope="User" />
+  <Option Name="RulesDisplay" Value="0" Type="DWord" Scope="User" />
+  <Option Name="RulesFilter" Value="0" Type="DWord" Scope="User" />
+  <Option Name="PlacementRulesPanel" Value="4'26'1400'849'120'Normal" Type="String" Scope="User" />
+  <Option Name="LogColumnsVisibility" Value="111111111111" Type="String" Scope="User" />
+  <Option Name="LogColumnsOrder" Value="0'1'2'3'4'5'6'7'8'9'10'11" Type="String" Scope="User" />
+  <Option Name="LogColumnsSize" Value="130'80'200'292'70'80'140'100'140'100'78'110" Type="String" Scope="User" />
+  <Option Name="LogConnections" Value="0" Type="DWord" Scope="User" />
+  <Option Name="LogDirection" Value="0" Type="DWord" Scope="User" />
+  <Option Name="LogDays" Value="1" Type="DWord" Scope="User" />
+  <Option Name="LogEntries" Value="0" Type="DWord" Scope="User" />
+  <Option Name="PlacementConnectionsPanel" Value="100'2'1434'590'120'Normal" Type="String" Scope="User" />
+  <Option Name="PlacementProperties" Value="38'390'640'620'120'Normal" Type="String" Scope="User" />
+  <Option Name="UserLastPolicyPath" Value="C:\Users\Steven\Desktop" Type="String" Scope="User" />
+  <Option Name="AuditMode" Value="3" Type="DWord" Scope="Global" />
+  <Option Name="SecureRules" Value="1" Type="DWord" Scope="Global" />
+  <Option Name="SecureRulesMode" Value="1" Type="DWord" Scope="Global" />
+</Options>
